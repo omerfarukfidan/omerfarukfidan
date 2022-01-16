@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on learning new languages and sharing my little knowladge.
 - 📫 How to reach me:
 Gmail: fidanomerfaruk01@gmail.com
-Instagram: omerfarukfidannn
+
 
 <!---
 omerfarukfidan/omerfarukfidan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
