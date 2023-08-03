@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerfarukfidan" alt="omerfarukfidan" /></a> </p>
 
-- 🔭 I’m currently working on [ZahraBooking](https://www.linkedin.com/company/zahrabooking/mycompany/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/omerfarukfidan?tab=repositories](https://github.com/omerfarukfidan?tab=repositories)
 
 - 📫 How to reach me **fidanomerfaruk01@gmail.com**
