@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerfarukfidan" alt="omerfarukfidan" /></a> </p>
 
-- 🌱 I’m currently learning **.NET Framework and Advanced Topics of T-SQL**
-
 - 👨‍💻 All of my projects are available at [https://github.com/omerfarukfidan?tab=repositories](https://github.com/omerfarukfidan?tab=repositories)
 
 - 💬 Ask me about **GO, Gin Web Framework**
