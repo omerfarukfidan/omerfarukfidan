@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
-<h3 align="center">Enthusiastic Full Stack Software Developer from Turkey!</h3>
+<h3 align="center">Enthusiastic Software Developer from Turkey!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerfarukfidan&label=Profile%20views&color=0e75b6&style=flat" alt="omerfarukfidan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerfarukfidan" alt="omerfarukfidan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/omerfarukfidan?tab=repositories](https://github.com/omerfarukfidan?tab=repositories)
 
-- 💬 Ask me about **GO, Gin Web Framework**
+- 💬 Ask me about **SQL**
 
 - 📫 How to reach me **fidanomerfaruk01@gmail.com**
 
